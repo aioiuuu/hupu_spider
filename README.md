@@ -79,3 +79,7 @@ q_wr28857wfu@outlook.com
 ## 免责声明
 
 本工具仅用于学习和研究，请合理设置请求间隔，遵守网站 `robots.txt` 协议。
+
+## 联系方式
+
+q_wr28857wfu@outlook.com
