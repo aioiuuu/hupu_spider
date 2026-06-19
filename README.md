@@ -70,6 +70,10 @@ python hupu_worldcup_spider.py
 ├── worldcup_comments.json     运行产物
 ├── worldcup_comments.csv      运行产物
 └── README.md                  本文件
+
+## 联系方式
+
+q_wr28857wfu@outlook.com
 ```
 
 ## 免责声明
